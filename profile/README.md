@@ -35,4 +35,4 @@ Make powerful automation infrastructure without giving up ownership.
 
 Homeryland is building toward a future where developers can move seamlessly between their local machine, home server, cloud servers, and edge infrastructure -- using the same tools and workflows.
 
-Build with ❤️by Homeryland.
+Build with ❤️ by Homeryland.
